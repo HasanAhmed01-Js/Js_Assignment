@@ -18,11 +18,11 @@ Income will always be equal to or greater than expense. (income >=expense)
 <br/>
 
 ``` 
-[ INPUT : 10000, 3000 ] [OUTPUT : 1400] <br/>
-[ INPUT : 5000, 1500 ] [OUTPUT : 700] <br/>
-[ INPUT : 7000, 7000 ] [OUTPUT : 0] <br/>
-[ INPUT : -5000, 2000 ] [OUTPUT : Invalid Input] <br/>
-[ INPUT : 6000, -1500] [OUTPUT : Invalid Input] <br/>
+[ INPUT : 10000, 3000 ] [OUTPUT : 1400] 
+[ INPUT : 5000, 1500 ] [OUTPUT : 700] 
+[ INPUT : 7000, 7000 ] [OUTPUT : 0] 
+[ INPUT : -5000, 2000 ] [OUTPUT : Invalid Input] 
+[ INPUT : 6000, -1500] [OUTPUT : Invalid Input] 
 
 ```
 
