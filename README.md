@@ -41,7 +41,9 @@ Income will always be equal to or greater than expense. (income >=expense)
 > **Challenge** :If the input is not an object, an **"Invalid Input"** error message will be returned.
 
 <br/>
+
 ``` 
+
 INPUT : { name: "Rajib", testScore: 45,  schoolGrade: 25, isFFamily : true  }
 OUTPUT : true
 
@@ -52,5 +54,6 @@ INPUT : "hello"
 OUTPUT : Invalid Input
 
 INPUT : { name: "Rajib", testScore: 15,  schoolGrade: 25, isFFamily : true  }
-OUTPUT : false               
+OUTPUT : false
+
 ``` 
