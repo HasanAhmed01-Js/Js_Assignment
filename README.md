@@ -2,7 +2,7 @@
 
 <br/>
 
-### TaskFour : Tax Calculator
+### TaskOne : Tax Calculator
 
 > function will take two inputs:
 > Monthly Income - a positive number that represents monthly income.
@@ -32,7 +32,7 @@ Income will always be equal to or greater than expense. (income >=expense)
 <br/>
 <br/>
 
-### TaskTwo : Calculate Admission Final Score 
+### TaskFour : Calculate Admission Final Score 
 
 > An object will be taken as input. The object must have the properties name, testScore, schoolGrade, isFFamily. Where
 > typeof name = string
