@@ -1,7 +1,6 @@
 # Assignment JS
 
 <br/>
-<br/>
 
 ### TaskOne : Tax Calculator
 
