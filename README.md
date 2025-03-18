@@ -2,7 +2,7 @@
 
 <br/>
 
-### TaskOne : Tax Calculator
+### TaskFour : Tax Calculator
 
 > function will take two inputs:
 > Monthly Income - a positive number that represents monthly income.
@@ -64,7 +64,7 @@ OUTPUT : false
 <br/>
 <br/>
 
-### TaskThree : Predict Avarage Waiting Time 
+### TaskFive : Predict Avarage Waiting Time 
 
 > **Input**: The function will take 2 inputs,
 > One is an Array of The time of those who have been viva, the other is main user's serial number. *Serial Number > length of array*
