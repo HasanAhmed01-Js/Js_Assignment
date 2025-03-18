@@ -59,6 +59,9 @@ OUTPUT : false
 
 ``` 
 
+<br/>
+<br/>
+
 ### TaskThree : Predict Avarage Waiting Time 
 
 > **Input**: The function will take 2 inputs,
